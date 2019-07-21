@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bera5186/NodeJS-MongoDB.git"
+  },
+  "author": "Rahul Bera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bera5186/NodeJS-MongoDB/issues"
+  },
+  "homepage": "https://github.com/bera5186/NodeJS-MongoDB#readme",
+  "dependencies": {
+    "mongodb": "^3.3.0-beta2"
+  }
+}
